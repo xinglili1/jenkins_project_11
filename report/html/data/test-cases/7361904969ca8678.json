@@ -1,0 +1,66 @@
+{
+  "uid" : "7361904969ca8678",
+  "name" : ".Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login2",
+  "fullName" : "scripts..Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login2",
+  "historyId" : "114124ba5968ad92e61240de803e6f43",
+  "time" : {
+    "start" : 1559274863295,
+    "stop" : 1559274863352,
+    "duration" : 57
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_login.TestLogin object at 0x107cf2f60>\n\n    def test_login2(self):\n>       assert 0\nE       assert 0\n\nscripts/test_login.py:7: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "itheima-2.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6420-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : ".Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login2"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7361904969ca8678.json",
+  "parameterValues" : [ ]
+}

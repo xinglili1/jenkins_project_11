@@ -1,0 +1,64 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1559289344953" stop="1559289345078">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1559289344953" status="passed" stop="1559289345000">
+      <name>test_login.TestLogin.test_login1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7160-MainThread"/>
+        <label name="host" value="PN3KSW1L3S2W3PA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559289345000" status="failed" stop="1559289345078">
+      <name>test_login.TestLogin.test_login2</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripts.test_login.TestLogin object at 0x03665BB0&gt;
+
+    def test_login2(self):
+&gt;       assert 0
+E       assert 0
+
+test_login.py:7: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7160-MainThread"/>
+        <label name="host" value="PN3KSW1L3S2W3PA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559289345078" status="passed" stop="1559289345078">
+      <name>test_login.TestLogin.test_login3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7160-MainThread"/>
+        <label name="host" value="PN3KSW1L3S2W3PA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559289345078" status="passed" stop="1559289345078">
+      <name>test_login.TestLogin.test_login4</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7160-MainThread"/>
+        <label name="host" value="PN3KSW1L3S2W3PA"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

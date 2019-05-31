@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"failed","scripts..Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login2","57",""
+"passed","scripts..Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login1","6",""
+"passed","scripts..Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login3","0",""
+"passed","scripts..Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login4","1",""

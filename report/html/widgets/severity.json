@@ -1,0 +1,41 @@
+[ {
+  "uid" : "c5114db07db25ede",
+  "name" : ".Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login4",
+  "time" : {
+    "start" : 1559274863354,
+    "stop" : 1559274863355,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4be41ee894f08a3d",
+  "name" : ".Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login3",
+  "time" : {
+    "start" : 1559274863353,
+    "stop" : 1559274863353,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8655e6acf111558",
+  "name" : ".Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login1",
+  "time" : {
+    "start" : 1559274863287,
+    "stop" : 1559274863293,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7361904969ca8678",
+  "name" : ".Users.Yoson.Desktop.jenkins_project_11.scripts.test_login.TestLogin.test_login2",
+  "time" : {
+    "start" : 1559274863295,
+    "stop" : 1559274863352,
+    "duration" : 57
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
